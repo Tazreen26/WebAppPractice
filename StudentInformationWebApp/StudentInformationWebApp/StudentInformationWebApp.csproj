@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="StyleSheet\resetStyle.css" />
     <Content Include="UI\StudentInfoUI.aspx" />
     <Content Include="UI\StudentSearchUI.aspx" />
     <Content Include="Web.config" />
